@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef>
+		<defName>MorrowRim_Dunmeri_AltarSmall</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmerStyle_DunmeriAltar1x1</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shadowData>
+				<volume>(0.8, 1, 0.8)</volume>
+			</shadowData>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef>
+		<defName>MorrowRim_Dunmeri_AltarMedium</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmerStyle_DunmeriAltar1x3</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(3,1)</drawSize>
+			<shadowData>
+				<volume>(2.4, 1, 0.8)</volume>
+			</shadowData>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef>
+		<defName>MorrowRim_Dunmeri_AltarLarge</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmerStyle_DunmeriAltar2x3</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<drawSize>(3,2)</drawSize>
+			<shadowData>
+				<volume>(2.4, 1, 1.6)</volume>
+			</shadowData>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef>
+		<defName>MorrowRim_Dunmeri_AltarGrand</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmerStyle_DunmeriAltar3x3</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,3)</drawSize>
+			<shadowData>
+				<volume>(2.4, 1, 2.4)</volume>
+			</shadowData>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef>
+		<defName>MorrowRim_Dunmeri_KneelPillow</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/KneelPillow/MorrowRim_Dunmeri_KneelPillow</texPath>
+			<graphicClass>Graphic_Multi</graphicClass>
+			<shaderType>CutoutComplex</shaderType>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef ParentName="IdeoColumnStyleBase">
+		<defName>MorrowRim_Dunmeri_Column</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_DunmerStyle_DunmeriColumn</texPath>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef ParentName="IdeoTableStyleBase">
+		<defName>MorrowRim_Dunmeri_Table1x2c</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Tables/MorrowRim_DunmerStyle_DunmeriTable1x2</texPath>
+			<drawSize>(3,4)</drawSize>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef ParentName="IdeoTableStyleBase">
+		<defName>MorrowRim_Dunmeri_Table2x2c</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Tables/MorrowRim_Dunmeri_Table2x2</texPath>
+			<drawSize>(4,4)</drawSize>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef ParentName="IdeoTableStyleBase">
+		<defName>MorrowRim_Dunmeri_Table2x4c</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Tables/MorrowRim_Dunmeri_Table2x4</texPath>
+			<drawSize>(4,6)</drawSize>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef ParentName="IdeoTableStyleBase">
+		<defName>MorrowRim_Dunmeri_Table3x3c</defName>
+		<graphicData>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Tables/MorrowRim_Dunmeri_Table3x3</texPath>
+			<drawSize>(5,5)</drawSize>
+		</graphicData>
+	</ThingStyleDef>
+</Defs>

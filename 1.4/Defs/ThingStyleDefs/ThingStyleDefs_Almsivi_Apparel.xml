@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef>
+		<defName>MorrowRim_DunmerStyle_Almisivi_VisageMask</defName>
+		<!--<overrideLabel>Almsivi mask</overrideLabel>-->
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_AlmsiviVisageMask/MorrowRim_AlmsiviVisageMask</wornGraphicPath>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_AlmsiviVisageMask/MorrowRim_AlmsiviVisageMask</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingStyleDef>
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!--
+	<ThingStyleDef>
+		<defName>MorrowRim_AlmsiviApparel_Hood</defName>
+		<overrideLabel>Almsivi robe</overrideLabel>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_AlmsiviHood/MorrowRim_AlmsiviHood</wornGraphicPath>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_AlmsiviHood/MorrowRim_AlmsiviHood_Item</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+
+		</graphicData>
+	</ThingStyleDef>
+	-->
+	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<ThingStyleDef>
+		<defName>MorrowRim_AlmsiviApparel_Robe</defName>
+		<overrideLabel>Almsivi robe</overrideLabel>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_AlmsiviRobe/MorrowRim_AlmsiviRobe</wornGraphicPath>
+		<graphicData>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_AlmsiviRobe/MorrowRim_AlmsiviRobe_Item</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingStyleDef>
+</Defs>

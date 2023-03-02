@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+	<StyleItemCategoryDef>
+		<defName>ESCP_DunmerStyle</defName>
+		<label>Dunmeri</label>
+	</StyleItemCategoryDef>
+	<StyleItemCategoryDef>
+		<defName>ESCP_DunmerAshlanderStyle</defName>
+		<label>Dunmer Ashlander</label>
+	</StyleItemCategoryDef>
+	<StyleItemCategoryDef>
+		<defName>ESCP_DunmerTribunal</defName>
+		<label>Almsivi</label>
+	</StyleItemCategoryDef>
+</Defs>
+

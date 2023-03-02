@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ===== [MorrowRim_Dunmeri_SmoothStoneWall] ===== -->
+	<ThingDef ParentName="Wall">
+		<defName>MorrowRim_Dunmeri_SmoothStoneWall</defName>
+		<label>Dunmeri stone wall</label>
+		<description>An impassable brick wall, given a smooth appearance with a coating of plaster. Capable of holding up a roof.</description>
+		<dominantStyleCategory>ESCP_DunmerStyle</dominantStyleCategory>
+		<graphicData>
+			<texPath>Things/Building/Linked/RockSmooth_Atlas</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<linkType>CornerFiller</linkType>
+		</graphicData>
+		<uiIconPathsStuff Inherit="False"/>
+		<statBases>
+			<MaxHitPoints>300</MaxHitPoints>
+			<WorkToBuild>270</WorkToBuild>
+			<Flammability>1.0</Flammability>
+			<MarketValue>18</MarketValue>
+			<Beauty>2</Beauty>
+			<MeditationFocusStrength>0.22</MeditationFocusStrength>
+		</statBases>
+		<costStuffCount>5</costStuffCount>
+		<stuffCategories Inherit="false">
+			<li>Stony</li>
+		</stuffCategories>
+		<canGenerateDefaultDesignator>false</canGenerateDefaultDesignator>
+	</ThingDef>
+</Defs>

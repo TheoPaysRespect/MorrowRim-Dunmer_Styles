@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ==========[ESCP_DunmerStyle]========== -->
+	<StyleCategoryDef>
+		<defName>ESCP_DunmerStyle</defName>
+		<label>Dunmeri</label>
+		<iconPath>World/WorldObjects/Expanding/ESCP_DunmerReaverSettlement</iconPath>
+		<soundOngoingRitual>RitualSustainer_Morbid</soundOngoingRitual>
+		<ritualVisualEffectDef>ESCP_Dunmeri</ritualVisualEffectDef>
+		<thingDefStyles>
+
+		</thingDefStyles>
+	</StyleCategoryDef>
+	<!-- ==========[ESCP_DunmerAshlanderStyle]========== -->
+	<StyleCategoryDef>
+		<defName>ESCP_DunmerAshlanderStyle</defName>
+		<label>Ashlander</label>
+		<iconPath>World/WorldObjects/Expanding/ESCP_DunmerAshlanderSettlementSavage</iconPath>
+		<soundOngoingRitual>RitualSustainer_Morbid</soundOngoingRitual>
+		<ritualVisualEffectDef>ESCP_Dunmeri</ritualVisualEffectDef>
+		<thingDefStyles>
+
+		</thingDefStyles>
+	</StyleCategoryDef>
+	<!-- ==========[ESCP_DunmerTribunal]========== -->
+	<StyleCategoryDef>
+		<defName>ESCP_DunmerTribunal</defName>
+		<label>Almsivi</label>
+		<iconPath>UI/Ideoligions/ESCP_DunmerA</iconPath>
+		<soundOngoingRitual>RitualSustainer_Morbid</soundOngoingRitual>
+		<ritualVisualEffectDef>ESCP_DunmerTribunal</ritualVisualEffectDef>
+		<thingDefStyles>
+
+		</thingDefStyles>
+	</StyleCategoryDef>
+</Defs>

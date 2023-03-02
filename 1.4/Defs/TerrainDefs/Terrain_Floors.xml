@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ===== [MorrowRim_Dunmeri_Floor_StoneTile] ===== -->
+	<DesignatorDropdownGroupDef>
+		<defName>MorrowRim_Dunmeri_Floor_StoneTile</defName>
+		<label>Dunmeri tile</label>
+	</DesignatorDropdownGroupDef>
+	<!-- ===== [MorrowRim_DunmerStyle_DunmeriStoneTile] ===== -->
+	<TerrainDef ParentName="IdeoStoneTileBase" Name="MorrowRim_Dunmeri_Floor_StoneTileBase" Abstract="True">
+		<description>Fine stone tiles in a Dunmeri style.</description>
+		<texturePath>Terrain/Surfaces/MorrowRim_DunmeriTile</texturePath>
+		<designatorDropdown>MorrowRim_Dunmeri_Floor_StoneTile</designatorDropdown>
+		<dominantStyleCategory>ESCP_DunmerStyle</dominantStyleCategory>
+	</TerrainDef>
+	<!-- ===== [MorrowRim_Dunmeri_Floor_StoneTileSandstone] ===== -->
+	<TerrainDef ParentName="MorrowRim_Dunmeri_Floor_StoneTileBase">
+		<defName>MorrowRim_Dunmeri_Floor_StoneTileSandstone</defName>
+		<label>Dunmeri sandstone tile</label>
+		<color>(147,127,118)</color>
+		<costList>
+			<BlocksSandstone>20</BlocksSandstone>
+		</costList>
+	</TerrainDef>
+	<!-- ===== [MorrowRim_Dunmeri_Floor_StoneTileGranite] ===== -->
+	<TerrainDef ParentName="MorrowRim_Dunmeri_Floor_StoneTileBase">
+		<defName>MorrowRim_Dunmeri_Floor_StoneTileGranite</defName>
+		<label>Dunmeri granite tile</label>
+		<color>(105,95,97)</color>
+		<costList>
+			<BlocksGranite>20</BlocksGranite>
+		</costList>
+	</TerrainDef>
+	<!-- ===== [MorrowRim_Dunmeri_Floor_StoneTileLimestone] ===== -->
+	<TerrainDef ParentName="MorrowRim_Dunmeri_Floor_StoneTileBase">
+		<defName>MorrowRim_Dunmeri_Floor_StoneTileLimestone</defName>
+		<label>Dunmeri limestone tile</label>
+		<color>(158,153,135)</color>
+		<costList>
+			<BlocksLimestone>20</BlocksLimestone>
+		</costList>
+	</TerrainDef>
+	<!-- ===== [MorrowRim_Dunmeri_Floor_StoneTileSlate] ===== -->
+	<TerrainDef ParentName="MorrowRim_Dunmeri_Floor_StoneTileBase">
+		<defName>MorrowRim_Dunmeri_Floor_StoneTileSlate</defName>
+		<label>Dunmeri slate tile</label>
+		<color>(70,70,70)</color>
+		<costList>
+			<BlocksSlate>20</BlocksSlate>
+		</costList>
+	</TerrainDef>
+	<!-- ===== [MorrowRim_Dunmeri_Floor_StoneTileMarble] ===== -->
+	<TerrainDef ParentName="MorrowRim_Dunmeri_Floor_StoneTileBase">
+		<defName>MorrowRim_Dunmeri_Floor_StoneTileMarble</defName>
+		<label>Dunmeri marble tile</label>
+		<color>(180,180,180)</color>
+		<costList>
+			<BlocksMarble>20</BlocksMarble>
+		</costList>
+	</TerrainDef>
+</Defs>

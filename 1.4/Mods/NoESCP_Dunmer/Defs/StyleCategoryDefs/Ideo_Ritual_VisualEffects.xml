@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<!-- ==========[ESCP_Dunmeri]========== -->
+	<RitualVisualEffectDef>
+		<defName>ESCP_Dunmeri</defName>
+		<tintColor>(36, 20, 25)</tintColor>
+		<comps>
+			<li>
+				<compClass>CompRitualEffect_ConstantCenter</compClass>
+				<moteDef>Mote_RitualSmokeThick</moteDef>
+				<scaleWithRoom>true</scaleWithRoom>
+			</li>
+		</comps>
+	</RitualVisualEffectDef>
+	<!-- ==========[ESCP_DunmerTribunal]========== -->
+	<RitualVisualEffectDef ParentName="RitualGlowAbstract">
+		<defName>ESCP_DunmerTribunal</defName>
+		<tintColor>(170, 150, 80)</tintColor>
+		<comps>
+			<li>
+				<compClass>CompRitualEffect_ConstantCenter</compClass>
+				<moteDef>Mote_RitualSmokeThick</moteDef>
+				<scaleWithRoom>true</scaleWithRoom>
+			</li>
+			<li Class="CompProperties_RitualEffectConstantCircle">
+				<radius>7.0</radius>
+				<numCopies>3</numCopies>
+				<moteDef>ESCP_AlmsiviRitualBanner</moteDef>
+				<scalePositionWithRoom>true</scalePositionWithRoom>
+				<onlySpawnInSameRoom>true</onlySpawnInSameRoom>
+				<offset>(0, 0, 0.5)</offset>
+				<roomCheckOffset>(0, 0, -1)</roomCheckOffset>
+			</li>
+			<li Class="CompProperties_RitualEffectIntervalSpawnCircle">
+				<fleckDef>ESCP_DunmerTribunalRitual_Alm</fleckDef>
+				<area>(27, 28)</area>
+				<radius>6</radius>
+				<concentration>1</concentration>
+				<spawnIntervalTicks>25</spawnIntervalTicks>
+				<spawnCount>1</spawnCount>
+				<rotation>0</rotation>
+				<scalePositionWithRoom>true</scalePositionWithRoom>
+				<onlySpawnInSameRoom>true</onlySpawnInSameRoom>
+			</li>
+			<li Class="CompProperties_RitualEffectIntervalSpawnCircle">
+				<fleckDef>ESCP_DunmerTribunalRitual_Si</fleckDef>
+				<area>(27, 28)</area>
+				<radius>6</radius>
+				<concentration>1</concentration>
+				<spawnIntervalTicks>25</spawnIntervalTicks>
+				<spawnCount>1</spawnCount>
+				<rotation>0</rotation>
+				<scalePositionWithRoom>true</scalePositionWithRoom>
+				<onlySpawnInSameRoom>true</onlySpawnInSameRoom>
+			</li>
+			<li Class="CompProperties_RitualEffectIntervalSpawnCircle">
+				<fleckDef>ESCP_DunmerTribunalRitual_Vi</fleckDef>
+				<area>(27, 28)</area>
+				<radius>6</radius>
+				<concentration>1</concentration>
+				<spawnIntervalTicks>25</spawnIntervalTicks>
+				<spawnCount>1</spawnCount>
+				<rotation>0</rotation>
+				<scalePositionWithRoom>true</scalePositionWithRoom>
+				<onlySpawnInSameRoom>true</onlySpawnInSameRoom>
+			</li>
+		</comps>
+	</RitualVisualEffectDef>
+</Defs>

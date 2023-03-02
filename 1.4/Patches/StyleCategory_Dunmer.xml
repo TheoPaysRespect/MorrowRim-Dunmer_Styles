@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<!-- =====  ===== -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/StyleCategoryDef[defName="ESCP_DunmerStyle"]/thingDefStyles</xpath>
+		<value>
+			
+		</value>
+	</Operation>
+	<!-- =====  ===== -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/StyleCategoryDef[defName="ESCP_DunmerStyle"]</xpath>
+		<value>
+			<addDesignators>
+				<li>MorrowRim_Dunmeri_SmoothStoneWall</li>
+				<li>MorrowRim_Dunmeri_AshPlanter</li>
+				<li>MorrowRim_Dunmeri_AshPlanterSmall</li>
+			</addDesignators>
+		</value>
+	</Operation>
+	<!-- =====  ===== -->
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/StyleCategoryDef[defName="ESCP_DunmerStyle"]</xpath>
+		<value>
+			<addDesignatorGroups>
+				<li>MorrowRim_Dunmeri_Floor_StoneTile</li>
+			</addDesignatorGroups>
+		</value>
+	</Operation>
+</Patch>
