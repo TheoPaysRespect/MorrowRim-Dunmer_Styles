@@ -8,7 +8,7 @@
 		<dominantStyleCategory>ESCP_DunmerStyle</dominantStyleCategory>
 		<thingClass>Building_PlantGrower</thingClass>
 		<graphicData>
-			<texPath>Things/Building/Furniture/MorrowRim_Dunmeri_DunmerAshPlanter</texPath>
+			<texPath>Things/Building/Furniture/MorrowRim_Dunmeri_AshPlanter</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 			<drawSize>(2,2)</drawSize>
@@ -55,7 +55,7 @@
 		<defName>MorrowRim_Dunmeri_AshPlanterSmall</defName>
 		<label>small ash planter</label>
 		<graphicData>
-			<texPath>Things/Building/Furniture/MorrowRim_Dunmeri_DunmerAshPlanterSmall</texPath>
+			<texPath>Things/Building/Furniture/MorrowRim_Dunmeri_AshPlanterSmall</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 			<drawSize>(1.9,1.9)</drawSize>
