@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_AltarSmall] ===== -->
 	<ThingStyleDef>
 		<defName>MorrowRim_Dunmeri_AltarSmall</defName>
 		<graphicData>
-			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmerStyle_DunmeriAltar1x1</texPath>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmeriAltar1x1</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<shadowData>
 				<volume>(0.8, 1, 0.8)</volume>
 			</shadowData>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_AltarMedium] ===== -->
 	<ThingStyleDef>
 		<defName>MorrowRim_Dunmeri_AltarMedium</defName>
 		<graphicData>
-			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmerStyle_DunmeriAltar1x3</texPath>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmeriAltar1x3</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<drawSize>(3,1)</drawSize>
 			<shadowData>
@@ -23,11 +23,11 @@
 			</shadowData>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_AltarLarge] ===== -->
 	<ThingStyleDef>
 		<defName>MorrowRim_Dunmeri_AltarLarge</defName>
 		<graphicData>
-			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmerStyle_DunmeriAltar2x3</texPath>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmeriAltar2x3</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<drawSize>(3,2)</drawSize>
 			<shadowData>
@@ -35,11 +35,11 @@
 			</shadowData>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_AltarGrand] ===== -->
 	<ThingStyleDef>
 		<defName>MorrowRim_Dunmeri_AltarGrand</defName>
 		<graphicData>
-			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmerStyle_DunmeriAltar3x3</texPath>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Altars/MorrowRim_DunmeriAltar3x3</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 			<drawSize>(3,3)</drawSize>
 			<shadowData>
@@ -47,16 +47,16 @@
 			</shadowData>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_KneelPillow] ===== -->
 	<ThingStyleDef>
 		<defName>MorrowRim_Dunmeri_KneelPillow</defName>
 		<graphicData>
-			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/KneelPillow/MorrowRim_Dunmeri_KneelPillow</texPath>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_KneelPillow</texPath>
 			<graphicClass>Graphic_Multi</graphicClass>
 			<shaderType>CutoutComplex</shaderType>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Column] ===== -->
 	<ThingStyleDef ParentName="IdeoColumnStyleBase">
 		<defName>MorrowRim_Dunmeri_Column</defName>
 		<graphicData>

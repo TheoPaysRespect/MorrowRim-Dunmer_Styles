@@ -4,7 +4,30 @@
 	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/StyleCategoryDef[defName="ESCP_DunmerStyle"]/thingDefStyles</xpath>
 		<value>
-			
+			<li>
+				<thingDef>Altar_Small</thingDef>
+				<styleDef>MorrowRim_Dunmeri_AltarSmall</styleDef>
+			</li>
+			<li>
+				<thingDef>Altar_Medium</thingDef>
+				<styleDef>MorrowRim_Dunmeri_AltarMedium</styleDef>
+			</li>
+			<li>
+				<thingDef>Altar_Large</thingDef>
+				<styleDef>MorrowRim_Dunmeri_AltarLarge</styleDef>
+			</li>
+			<li>
+				<thingDef>Altar_Grand</thingDef>
+				<styleDef>MorrowRim_Dunmeri_AltarGrand</styleDef>
+			</li>
+			<li>
+				<thingDef>KneelPillow</thingDef>
+				<styleDef>MorrowRim_Dunmeri_KneelPillow</styleDef>
+			</li>
+			<li>
+				<thingDef>Column</thingDef>
+				<styleDef>MorrowRim_Dunmeri_Column</styleDef>
+			</li>
 		</value>
 	</Operation>
 	<!-- =====  ===== -->

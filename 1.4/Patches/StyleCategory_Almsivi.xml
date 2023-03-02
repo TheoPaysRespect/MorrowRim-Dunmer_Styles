@@ -8,6 +8,10 @@
 				<thingDef>SculptureSmall</thingDef>
 				<styleDef>MorrowRim_Almsivi_SculptureSmall</styleDef>
 			</li>
+			<li>
+				<thingDef>Apparel_VisageMask</thingDef>
+				<styleDef>MorrowRim_Almisivi_VisageMask</styleDef>
+			</li>
 		</value>
 	</Operation>
 	<!-- =====  ===== -->
