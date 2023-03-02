@@ -1,74 +1,74 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_BasicShirt] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_Dunmeri_Apparel_BasicShirt</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_BasicShirt/MorrowRim_Dunmeri_BasicShirt</wornGraphicPath>
+		<defName>MorrowRim_Dunmeri_BasicShirt</defName>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_BasicShirt/MorrowRim_Dunmeri_BasicShirt</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_BasicShirt/MorrowRim_Dunmeri_BasicShirt_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_BasicShirt/MorrowRim_Dunmeri_BasicShirt_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_CollarShirt] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_Dunmeri_Apparel_CollarShirt</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_CollarShirt/MorrowRim_Dunmeri_CollarShirt</wornGraphicPath>
+		<defName>MorrowRim_Dunmeri_CollarShirt</defName>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_CollarShirt/MorrowRim_Dunmeri_CollarShirt</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_CollarShirt/MorrowRim_Dunmeri_CollarShirt_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_CollarShirt/MorrowRim_Dunmeri_CollarShirt_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Parka] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_Dunmeri_Apparel_Parka</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_Parka/MorrowRim_Dunmeri_Parka</wornGraphicPath>
+		<defName>MorrowRim_Dunmeri_Parka</defName>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Parka/MorrowRim_Dunmeri_Parka</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_Parka/MorrowRim_Dunmeri_Parka_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Parka/MorrowRim_Dunmeri_Parka_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Duster] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_Dunmeri_Apparel_Duster</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_Duster/MorrowRim_Dunmeri_Duster</wornGraphicPath>
+		<defName>MorrowRim_Dunmeri_Duster</defName>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Duster/MorrowRim_Dunmeri_Duster</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_Duster/MorrowRim_Dunmeri_Duster_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Duster/MorrowRim_Dunmeri_Duster_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_CowboyHat] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_Dunmeri_Apparel_CowboyHat</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_CowboyHat/MorrowRim_Dunmeri_CowboyHat</wornGraphicPath>
+		<defName>MorrowRim_Dunmeri_CowboyHat</defName>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_CowboyHat/MorrowRim_Dunmeri_CowboyHat</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_CowboyHat/MorrowRim_Dunmeri_CowboyHat_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_CowboyHat/MorrowRim_Dunmeri_CowboyHat_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_BowlerHat] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_Dunmeri_Apparel_BowlerHat</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_BowlerHat/MorrowRim_Dunmeri_BowlerHat</wornGraphicPath>
+		<defName>MorrowRim_Dunmeri_BowlerHat</defName>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_BowlerHat/MorrowRim_Dunmeri_BowlerHat</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_BowlerHat/MorrowRim_Dunmeri_BowlerHat_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_BowlerHat/MorrowRim_Dunmeri_BowlerHat_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Tuque] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_Dunmeri_Apparel_Tuque</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_Tuque/MorrowRim_Dunmeri_Tuque</wornGraphicPath>
+		<defName>MorrowRim_Dunmeri_Tuque</defName>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Tuque/MorrowRim_Dunmeri_Tuque</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_Tuque/MorrowRim_Dunmeri_Tuque_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Tuque/MorrowRim_Dunmeri_Tuque_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Shadecone] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_Dunmeri_Apparel_Shadecone</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_Shadecone/MorrowRim_Dunmeri_Shadecone</wornGraphicPath>
+		<defName>MorrowRim_Dunmeri_Shadecone</defName>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Shadecone/MorrowRim_Dunmeri_Shadecone</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_Dunmeri_Shadecone/MorrowRim_Dunmeri_Shadecone_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Shadecone/MorrowRim_Dunmeri_Shadecone_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>

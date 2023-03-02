@@ -28,6 +28,41 @@
 				<thingDef>Column</thingDef>
 				<styleDef>MorrowRim_Dunmeri_Column</styleDef>
 			</li>
+			<!-- Apparel -->
+			<!--
+			<li>
+				<thingDef>Apparel_BasicShirt</thingDef>
+				<styleDef>ESCP_Dunmeri_Apparel_BasicShirt</styleDef>
+			</li>
+			<li>
+				<thingDef>Apparel_CollarShirt</thingDef>
+				<styleDef>ESCP_Dunmeri_Apparel_CollarShirt</styleDef>
+			</li>
+			<li>
+				<thingDef>Apparel_Duster</thingDef>
+				<styleDef>ESCP_Dunmeri_Apparel_Duster</styleDef>
+			</li>
+			<li>
+				<thingDef>Apparel_Parka</thingDef>
+				<styleDef>ESCP_Dunmeri_Apparel_Parka</styleDef>
+			</li>
+			-->
+			<li>
+				<thingDef>Apparel_CowboyHat</thingDef>
+				<styleDef>MorrowRim_Dunmeri_CowboyHat</styleDef>
+			</li>
+			<li>
+				<thingDef>Apparel_BowlerHat</thingDef>
+				<styleDef>MorrowRim_Dunmeri_BowlerHat</styleDef>
+			</li>
+			<li>
+				<thingDef>Apparel_Tuque</thingDef>
+				<styleDef>MorrowRim_Dunmeri_Tuque</styleDef>
+			</li>
+			<li>
+				<thingDef>Apparel_Shadecone</thingDef>
+				<styleDef>MorrowRim_Dunmeri_Shadecone</styleDef>
+			</li>
 		</value>
 	</Operation>
 	<!-- =====  ===== -->
