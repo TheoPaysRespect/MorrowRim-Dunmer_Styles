@@ -4,7 +4,10 @@
 	<Operation Class="PatchOperationAdd">
 		<xpath>Defs/StyleCategoryDef[defName="ESCP_DunmerTribunal"]/thingDefStyles</xpath>
 		<value>
-			
+			<li>
+				<thingDef>SculptureSmall</thingDef>
+				<styleDef>MorrowRim_Almsivi_SculptureSmall</styleDef>
+			</li>
 		</value>
 	</Operation>
 	<!-- =====  ===== -->

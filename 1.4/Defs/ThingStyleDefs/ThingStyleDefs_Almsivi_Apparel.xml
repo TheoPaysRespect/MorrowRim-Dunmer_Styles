@@ -2,7 +2,7 @@
 <Defs>
 	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_DunmerStyle_Almisivi_VisageMask</defName>
+		<defName>MorrowRim_Almisivi_VisageMask</defName>
 		<!--<overrideLabel>Almsivi mask</overrideLabel>-->
 		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_AlmsiviVisageMask/MorrowRim_AlmsiviVisageMask</wornGraphicPath>
 		<graphicData>

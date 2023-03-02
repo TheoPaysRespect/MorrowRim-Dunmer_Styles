@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Almsivi_SculptureSmall] ===== -->
 	<ThingStyleDef>
-		<defName>MorrowRim_DunmerStyle_Almsivi_SculptureSmall</defName>
+		<defName>MorrowRim_Almsivi_SculptureSmall</defName>
 		<graphicData>
 			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Almsivi/Sculptures/Small</texPath>
 			<graphicClass>Graphic_Random</graphicClass>
-		</graphicData>
-	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
-	<ThingStyleDef>
-		<defName>MorrowRim_DunmerStyle_Almsivi_SculptureTerror</defName>
-		<graphicData>
-			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Almsivi/Sculptures/SculptureTerror</texPath>
-			<graphicClass>Graphic_Random</graphicClass>
-			<drawSize>(1.5,1.5)</drawSize>
 		</graphicData>
 	</ThingStyleDef>
 </Defs>
