@@ -49,11 +49,15 @@
 				<thingDef>Apparel_BasicShirt</thingDef>
 				<styleDef>MorrowRim_Dunmeri_BasicShirt</styleDef>
 			</li>
-			<!--
 			<li>
 				<thingDef>Apparel_CollarShirt</thingDef>
-				<styleDef>ESCP_Dunmeri_Apparel_CollarShirt</styleDef>
+				<styleDef>MorrowRim_Dunmeri_CollarShirt</styleDef>
 			</li>
+			<li>
+				<thingDef>Apparel_Robe</thingDef>
+				<styleDef>MorrowRim_Dunmeri_Robe</styleDef>
+			</li>
+			<!--
 			<li>
 				<thingDef>Apparel_Duster</thingDef>
 				<styleDef>ESCP_Dunmeri_Apparel_Duster</styleDef>
