@@ -63,15 +63,15 @@
 			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_DunmerStyle_DunmeriColumn</texPath>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Table1x2c] ===== -->
 	<ThingStyleDef ParentName="IdeoTableStyleBase">
 		<defName>MorrowRim_Dunmeri_Table1x2c</defName>
 		<graphicData>
-			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Tables/MorrowRim_DunmerStyle_DunmeriTable1x2</texPath>
+			<texPath>Things/Building/BuildingStyles/MorrowRim_DunmerStyle_Dunmeri/Tables/MorrowRim_Dunmeri_Table1x2</texPath>
 			<drawSize>(3,4)</drawSize>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Table2x2c] ===== -->
 	<ThingStyleDef ParentName="IdeoTableStyleBase">
 		<defName>MorrowRim_Dunmeri_Table2x2c</defName>
 		<graphicData>
@@ -79,7 +79,7 @@
 			<drawSize>(4,4)</drawSize>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Table2x4c] ===== -->
 	<ThingStyleDef ParentName="IdeoTableStyleBase">
 		<defName>MorrowRim_Dunmeri_Table2x4c</defName>
 		<graphicData>
@@ -87,7 +87,7 @@
 			<drawSize>(4,6)</drawSize>
 		</graphicData>
 	</ThingStyleDef>
-	<!-- ===== [MorrowRim_DunmerStyle_Floor_Dunmeri_Stone] ===== -->
+	<!-- ===== [MorrowRim_Dunmeri_Table3x3c] ===== -->
 	<ThingStyleDef ParentName="IdeoTableStyleBase">
 		<defName>MorrowRim_Dunmeri_Table3x3c</defName>
 		<graphicData>

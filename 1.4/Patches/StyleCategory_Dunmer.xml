@@ -28,12 +28,28 @@
 				<thingDef>Column</thingDef>
 				<styleDef>MorrowRim_Dunmeri_Column</styleDef>
 			</li>
+			<li>
+				<thingDef>Table1x2c</thingDef>
+				<styleDef>MorrowRim_Dunmeri_Table1x2c</styleDef>
+			</li>
+			<li>
+				<thingDef>Table2x2c</thingDef>
+				<styleDef>MorrowRim_Dunmeri_Table2x2c</styleDef>
+			</li>
+			<li>
+				<thingDef>Table2x4c</thingDef>
+				<styleDef>MorrowRim_Dunmeri_Table2x4c</styleDef>
+			</li>
+			<li>
+				<thingDef>Table3x3c</thingDef>
+				<styleDef>MorrowRim_Dunmeri_Table3x3c</styleDef>
+			</li>
 			<!-- Apparel -->
-			<!--
 			<li>
 				<thingDef>Apparel_BasicShirt</thingDef>
-				<styleDef>ESCP_Dunmeri_Apparel_BasicShirt</styleDef>
+				<styleDef>MorrowRim_Dunmeri_BasicShirt</styleDef>
 			</li>
+			<!--
 			<li>
 				<thingDef>Apparel_CollarShirt</thingDef>
 				<styleDef>ESCP_Dunmeri_Apparel_CollarShirt</styleDef>
