@@ -10,6 +10,17 @@
 				<moteDef>Mote_RitualSmokeThick</moteDef>
 				<scaleWithRoom>true</scaleWithRoom>
 			</li>
+			<li Class="CompProperties_RitualEffectIntervalSpawnCircle" MayRequire="SirMashedPotato.ESCP.RaceTools">
+				<moteDef>ESCP_RandomMote_DaedricLetters</moteDef>
+				<area>(27, 28)</area>
+				<radius>6</radius>
+				<concentration>2</concentration>
+				<spawnIntervalTicks>6</spawnIntervalTicks>
+				<spawnCount>5</spawnCount>
+				<rotation>0~0</rotation>
+				<scalePositionWithRoom>true</scalePositionWithRoom>
+				<onlySpawnInSameRoom>true</onlySpawnInSameRoom>
+			</li>
 		</comps>
 	</RitualVisualEffectDef>
 	<!-- ==========[ESCP_DunmerTribunal]========== -->
