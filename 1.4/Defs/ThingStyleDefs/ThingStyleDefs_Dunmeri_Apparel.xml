@@ -28,27 +28,23 @@
 		</graphicData>
 	</ThingStyleDef>
 	<!-- ===== [MorrowRim_Dunmeri_Parka] ===== -->
-	<!--
 	<ThingStyleDef>
 		<defName>MorrowRim_Dunmeri_Parka</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Parka/MorrowRim_Dunmeri_Parka</wornGraphicPath>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/ESCP_Dunmeri_Parka/ESCP_Dunmeri_Parka</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Parka/MorrowRim_Dunmeri_Parka_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/ESCP_Dunmeri_Parka/ESCP_Dunmeri_Parka_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	-->
 	<!-- ===== [MorrowRim_Dunmeri_Duster] ===== -->
-	<!--
 	<ThingStyleDef>
 		<defName>MorrowRim_Dunmeri_Duster</defName>
-		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Duster/MorrowRim_Dunmeri_Duster</wornGraphicPath>
+		<wornGraphicPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/ESCP_Dunmeri_Duster/ESCP_Dunmeri_Duster</wornGraphicPath>
 		<graphicData>
-			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/MorrowRim_Dunmeri_Duster/MorrowRim_Dunmeri_Duster_Item</texPath>
+			<texPath>Things/Pawn/Humanlike/Apparelstyles/MorrowRim_DunmerStyle_Dunmeri/ESCP_Dunmeri_Duster/ESCP_Dunmeri_Duster_Item</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 	</ThingStyleDef>
-	-->
 	<!-- ===== [MorrowRim_Dunmeri_CowboyHat] ===== -->
 	<ThingStyleDef>
 		<defName>MorrowRim_Dunmeri_CowboyHat</defName>

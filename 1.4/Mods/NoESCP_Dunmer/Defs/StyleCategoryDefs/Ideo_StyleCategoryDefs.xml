@@ -15,7 +15,7 @@
 	<StyleCategoryDef>
 		<defName>ESCP_DunmerAshlanderStyle</defName>
 		<label>Ashlander</label>
-		<iconPath>World/WorldObjects/Expanding/ESCP_DunmerAshlanderSettlementSavage</iconPath>
+		<iconPath>World/WorldObjects/Expanding/ESCP_DunmerAshlanderSettlement</iconPath>
 		<soundOngoingRitual>RitualSustainer_Morbid</soundOngoingRitual>
 		<ritualVisualEffectDef>ESCP_Dunmeri</ritualVisualEffectDef>
 		<thingDefStyles>
