@@ -6,6 +6,7 @@
 	<modVersion>1.0.1</modVersion>
 	<supportedVersions>
 		<li>1.4</li>
+		<li>1.5</li>
 	</supportedVersions>
 	<description>It adds Dunmer styled stuff. Works both with, or without, ESCP Dunmer.\n\n-Based on the 'Elder Scrolls' series by Bethesda Game Studios
 	</description>

@@ -6,4 +6,10 @@
 		<li>Common</li>
 		<li>1.4</li>
 	</v1.4>
+	<v1.5>
+		<!-- Load necessary files if ESCP Dunmer is NOT found -->
+		<li IfModNotActive="SirMashedPotato.ESCP.Dunmer">1.4/Mods/NoESCP_Dunmer</li>
+		<li>Common</li>
+		<li>1.4</li>
+	</v1.5>
 </loadFolders>
