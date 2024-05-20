@@ -17,6 +17,6 @@
 	</modDependencies>
 	<loadAfter>
 		<li>Ludeon.RimWorld.Ideology</li>
-		<li>ESCP.ESCP.Dunmer</li>
+		<li>ESCP.Dunmer</li>
 	</loadAfter>
 </ModMetaData>

@@ -2,7 +2,7 @@
 <loadFolders>
 	<v1.5>
 		<!-- Load necessary files if ESCP Dunmer is NOT found -->
-		<li IfModNotActive="ESCP.ESCP.Dunmer">Mods/NoESCP_Dunmer</li>
+		<li IfModNotActive="ESCP.Dunmer">Mods/NoESCP_Dunmer</li>
 		<li>Common</li>
 		<li>1.5</li>
 	</v1.5>
